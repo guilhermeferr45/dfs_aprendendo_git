@@ -16,3 +16,7 @@ git branch -M main - Cria uma filial principal
 git remote add origin https://github.com/guilhermeferr45/dfs_aprendendo_git.git - Está modificando a origem, pasta que fiz aqui é equivalente o que está no github
 
 git push -u origin main - Envia os dados pro repositório no github
+
+git commit -m - Comenta as modificações
+
+git push - Envia o arquivo modificado
