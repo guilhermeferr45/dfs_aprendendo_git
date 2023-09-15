@@ -1,5 +1,18 @@
 git init - inicializando um repo (ou repositório) git
+
 git status - verificar o status do repositório
+
 git add e o nome do arquivo - Adciona o arquivo como rastreavel
+
 git add . - adiciona todos os arquivos como rastreavel
 (Ser rastreavel é tipo ver o histórico, então consigo ver quem fez o que)
+
+(Quando o arquivo ficar amarelo e com o M na frente, quer dizer que ele foi modificado e precisa ser adicionado com git add novamente.)
+
+git commit -m - Adiciona comentário
+
+git branch -M main - Cria uma filial principal
+
+git remote add origin https://github.com/guilhermeferr45/dfs_aprendendo_git.git - Está modificando a origem, pasta que fiz aqui é equivalente o que está no github
+
+git push -u origin main - Envia os dados pro repositório no github
