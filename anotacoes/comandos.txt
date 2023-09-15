@@ -1,0 +1,5 @@
+git init - inicializando um repo (ou repositório) git
+git status - verificar o status do repositório
+git add e o nome do arquivo - Adciona o arquivo como rastreavel
+git add . - adiciona todos os arquivos como rastreavel
+(Ser rastreavel é tipo ver o histórico, então consigo ver quem fez o que)
