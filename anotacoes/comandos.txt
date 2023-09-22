@@ -1,5 +1,7 @@
 git init - inicializando um repo (ou repositório) git
 
+git clone + link do code - clona um repositório do github
+
 git status - verificar o status do repositório
 
 git add e o nome do arquivo - Adciona o arquivo como rastreavel
